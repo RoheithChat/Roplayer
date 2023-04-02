@@ -1,5 +1,4 @@
 {
-newversion:1,
-Installerurl:null
-
+  "newversion": "1.0.0",
+  "Installerurl": "http://example.com/installer.exe"
 }
